@@ -1,35 +1,35 @@
-//base by Tech-God
+//base by Vip Hit
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @techgod143
-//Instagram: techgod143
-//Telegram: t.me/techgod143
-//GitHub: @techgod143
-//WhatsApp: +917466008456
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
+//YouTube: @no
+//Instagram: no
+//Telegram: t.me/
+//GitHub: @viphit
+//WhatsApp: +918195056203
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "910000000000"
-global.ownername = "🐛Tech God"
-global.ytname = "YT: Tech-God"
-global.socialm = "GitHub: techgod143"
-global.location = "India, Up, Rampur"
+global.ownernomer = "918195056203"
+global.ownername = "Vip Hit"
+global.ytname = "YT: No"
+global.socialm = "GitHub: viphit"
+global.location = "India, Up, India"
 
-global.ownernumber = '917466008456'  //creator number
-global.ownername = '🐛Tech god' //owner name
-global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '918195056203'  //creator number
+global.ownername = 'Vip Hit' //owner name
+global.botname = 'Vip Hit ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Tech-God\n\nContact: +917466008456'
+global.author = 'Vip-Hit\n\nContact: +918195056203'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Youtube Tech God."
+global.wm = "Vip Hit."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
+global.link = 'https://whatsapp.com/channel/0029Va9Ufh'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
